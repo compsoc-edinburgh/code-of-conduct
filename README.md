@@ -21,4 +21,4 @@ If you feel that another person is violating the rule, or you have other concern
 
 ## License
 
-Originally written by [@CarrotCodes](https://twitter.com/carrotcodes) [here](https://gist.github.com/CarrotCodes/72b1dee50126b933273157031ee50ae6), and retains the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license - copy it, change it, and credit us. 💻❤️
+Originally written by [@CarrotCodes](https://twitter.com/carrotcodes) [here](https://gist.github.com/CarrotCodes/72b1dee50126b933273157031ee50ae6), and retains the [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-4.0/) license - copy it, change it, and credit us. 💻❤️
