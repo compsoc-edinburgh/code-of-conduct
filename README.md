@@ -1,6 +1,6 @@
 # CompSoc Code of Conduct
 
-#compsoc aims at being a nice place to chat about computer related things for anyone involved with Edinburgh University.
+CompSoc aims to be a nice place for anyone interested in Informatics to chat about their interests.
 
 **We do not tolerate harassment of people in any form, including but not limited to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. Expect action from an op if you break the rule.**
 
