@@ -1,4 +1,4 @@
-# #compsoc Code of Conduct
+# CompSoc Code of Conduct
 
 #compsoc aims at being a nice place to chat about computer related things for anyone involved with Edinburgh University.
 
