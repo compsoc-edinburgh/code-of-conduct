@@ -1,5 +1,7 @@
 # CompSoc Code of Conduct
 
+_**This Code of Conduct is specifically for the #compsoc channel on the ImaginaryNet IRC network. It also applies to any bridged networks, such as Slack or Discord. It does not inherently apply to other channels in any of the aforementioned networks, nor does it apply to other CompSoc gatherings, such as STMUs.**_
+
 CompSoc aims to be a nice place for anyone interested in Informatics to chat about their interests.
 
 **We do not tolerate harassment of people in any form, including but not limited to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. Expect action from an op if you break the rule.**
