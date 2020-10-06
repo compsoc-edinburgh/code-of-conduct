@@ -17,6 +17,7 @@ Not being nice could include:
 *   Fanboy-ism. Just because Programming Language X has feature Y doesn't mean everyone who doesn't use it is making the biggest mistake of their lives.
 *   Trolling. Posting something for the sole purpose of starting an argument or annoying other people is stupid.
 *   Excessive conspiracy-theorying. Consider making your own channel if you feel the need to negatively comment on everything related to a (reasonable) subject.
+*   Bad faith arguments.
 
 
 If you feel that another person is violating the rule, or you have other concerns, please contact one of the ops via a PM.
