@@ -6,9 +6,7 @@ Please follow the [Discord community guidelines](https://discord.com/guidelines)
 
 **We do not tolerate harassment of people in any form**, including but not limited to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion.
 
-With that in mind, there is a single rule:
-
-**Rule 1.** Be nice!
+With that in mind, there is a single rule: **Be nice!**
 
 > Examples of not being nice may include:
 > 
@@ -27,5 +25,3 @@ With that in mind, there is a single rule:
 Moderators reserve the right to exercise their discretion when deciding what behaviour is acceptable.
 
 If you feel that another person is violating the rule, or you have other concerns, please contact one of the admins/moderators via a PM.
-
-TEST
