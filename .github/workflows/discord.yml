@@ -1,0 +1,27 @@
+name: Update Discord Server Rules
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches: [ "master", "create-discord-rules" ]
+    paths:
+      - 'DISCORD_RULES.md'
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  update-discord:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.3.4
+
+      - name: Update the last Discord Message in the specified channel (#rules)
+        uses: compsoc-edinburgh/discord-post-updater@master
+        with:
+          discord_token: ${{ secrets.discord_bot_token }}
+          post_file: DISCORD_RULES.md
+          discord_channel: '992855808905859213' # N.B. The quote marks here are required
+          use_embed: True
+          embed_color: 13776415
