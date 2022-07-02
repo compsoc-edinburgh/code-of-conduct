@@ -4,7 +4,7 @@ name: Update Discord Server Rules
 # events but only for the master branch
 on:
   push:
-    branches: [ "master", "create-discord-rules" ]
+    branches: [ "master" ]
     paths:
       - 'DISCORD_RULES.md'
 
@@ -22,6 +22,7 @@ jobs:
         with:
           discord_token: ${{ secrets.discord_bot_token }}
           post_file: DISCORD_RULES.md
-          discord_channel: '992855808905859213' # N.B. The quote marks here are required
+          discord_channel: '757896939965775916' # N.B. The quote marks here are required
+          discord_message: '992885009138597908'
           use_embed: True
           embed_color: 13776415
